@@ -60,3 +60,12 @@ In the common data service, data is kept as a collection of entities. An entity 
 ## 9. Different ways to submit data from Power Apps?
 
 Data submission done can be two ways - Patch() and Submit form(). Patch() can also used to upload partial data.
+
+## 10. What is Power Automate?
+
+Power Automate is a cloud-based service that makes it practical and simple for line-of-business users to build workflows that automate time-consuming business tasks and processes across applications and services.
+
+## 11. Who is the intended audience for Power Automate?
+
+- Line-of-business in the enterprise prganizations who partner with IT to move responsibiltiy for business solutions closer to the business itself.
+- IT decision makers who want to empower line-of-business partners to create their own solutions so IT professionals and integration specialists can focus their expertise on more advanced integration tools, such as Azure Logic Apps.
